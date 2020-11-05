@@ -35,3 +35,5 @@ Route::get('/',function (){
 
 Route::resource('motor', MotorController::class);
 Route::resource('user', UserController::class);
+
+
