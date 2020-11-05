@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd25e043-61d2-4a9d-9b53-34c8c4fa86a9" name="Default Changelist" comment="">
+    <list default="true" id="bd25e043-61d2-4a9d-9b53-34c8c4fa86a9" name="Default Changelist" comment="update file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/motor/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/motor/edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/motor/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/motor/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,26 +161,42 @@
       <option name="presentableId" value="Default" />
       <updated>1604461423789</updated>
       <workItem from="1604461424999" duration="7642000" />
-      <workItem from="1604582223707" duration="8680000" />
+      <workItem from="1604582223707" duration="9295000" />
     </task>
+    <task id="LOCAL-00001" summary="update file">
+      <created>1604591706351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604591706351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="172" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1604588618920">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="172" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604588618920" />
-    <state x="647" y="315" key="Github.ShareDialog" timestamp="1604590092462">
+    <state x="647" y="315" key="Github.ShareDialog" timestamp="1604591630806">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1604590092462" />
+    <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1604591630806" />
     <state x="531" y="122" key="Github.UntrackedFilesDialog" timestamp="1604590101465">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="531" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604590101465" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1604591657843">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1604591657843" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
