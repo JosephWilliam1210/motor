@@ -3,9 +3,6 @@
     <div class="container" style="margin-top: 20px;">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="img/077067300_1567575292-vespa-4402984_1920.jpg" class="d-block w-100" alt="...">
-                </div>
                 <div class="carousel-item">
                     <img src="img/harga-vespa-primavera-sean-wotherspoon.jpg" class="d-block w-100" alt="...">
                 </div>

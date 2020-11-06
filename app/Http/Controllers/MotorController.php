@@ -80,7 +80,7 @@ class MotorController extends Controller
     public function update(Request $request, motor $motor)
     {
         $motor->update($request->all());
-        return redirect()->route('index');
+        return redirect()->route('motor.index');
         //
     }
 
@@ -93,7 +93,7 @@ class MotorController extends Controller
     public function destroy(motor $motor)
     {
         $motor -> delete();
-        return redirect()->route('index');
+        return redirect()->route('motor.index');
         //
     }
 }
